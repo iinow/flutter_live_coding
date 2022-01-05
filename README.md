@@ -16,5 +16,9 @@
 ```shell script
 # flutter 환경 변수 설정
 set -Ua fish_user_paths {flutter bin}
+
+# dart 
+brew tap dart-lang/dart
+brew install dart
 ```
 
